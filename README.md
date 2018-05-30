@@ -18,4 +18,4 @@ BÀI TẬP LỚN
 
 + Máy có khả năng tự chơi
 
-+Thiết kế thêm trái tim để khi xe ăn vào thì sẽ được cộng thêm một lần chơi khi va chạm vào chướng ngại vât
++ Thiết kế thêm trái tim để khi xe ăn vào thì sẽ được cộng thêm một lần chơi khi va chạm vào chướng ngại vât
